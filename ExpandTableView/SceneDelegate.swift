@@ -1,7 +1,7 @@
 //
 //  SceneDelegate.swift
 //  ExpandTableView
-// meri kahani sunoooo
+// 
 //  Created by Sunil Kumar on 11/03/20.
 //  Copyright © 2020 Wiantech. All rights reserved.
 //
